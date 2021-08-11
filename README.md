@@ -1,1 +1,1 @@
-# ExcelR_Solutions
+# Mini Projects
